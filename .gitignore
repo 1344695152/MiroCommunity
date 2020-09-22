@@ -1,0 +1,9 @@
+后端/MiroCommunity_API/bin
+后端/MiroCommunity_API/.vs
+后端/MiroCommunity_API/obj
+后端/MiroCommunity_API/Properties
+后端/MiroCommunity_API/appsettings.Development.json
+后端/MiroCommunity_API/MiroCommunity_API.csproj.user
+后端/MiroCommunity_API/MiroCommunity_API.xml
+后端/MiroCommunity_API.Models/bin
+后端/MiroCommunity_API.Models/obj
